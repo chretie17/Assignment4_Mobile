@@ -1,0 +1,31 @@
+{
+    "title": "Hello",
+    "increment": "Increment",
+    "counterMessage": "You have pushed the button this many times:",
+    "getContacts": "Get Contacts",
+    "editProfilePicture": "Edit Profile Picture",
+    "selectFromGallery": "Select from Gallery",
+    "takePicture": "Take a Picture",
+    "@title": {
+      "description": "The application title"
+    },
+    "@increment": {
+      "description": "Increment button tooltip"
+    },
+    "@counterMessage": {
+      "description": "Message showing how many times the button has been pressed"
+    },
+    "@getContacts": {
+      "description": "Button to get contacts"
+    },
+    "@editProfilePicture": {
+      "description": "Title for editing profile picture dialog"
+    },
+    "@selectFromGallery": {
+      "description": "Option to select image from gallery"
+    },
+    "@takePicture": {
+      "description": "Option to take a picture"
+    }
+  }
+  
